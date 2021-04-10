@@ -1,4 +1,8 @@
 ### encorehe   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)  👋 
+- 😄 前端开发工程师
+- 🤔 有问题欢迎私聊
+- ⚡ 有趣的事实： 我一直在倡导学习（Fun fact）
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=encorehe)](https://github.com/encorehe/ppui)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=encorehe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=encorehe&show_icons=true&theme=radical)
