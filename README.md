@@ -1,5 +1,5 @@
 ### encorehe   ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)  👋 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=encorehe)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=encorehe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=encorehe&show_icons=true&theme=radical)
 <!--
